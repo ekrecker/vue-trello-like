@@ -1,5 +1,4 @@
 module.exports = {
-  outputDir: 'docs',
-  assetsDir: './',
-  publicPath: './'
+  publicPath: '/vue-trello-like/',
+  outputDir: 'dist'
 }
